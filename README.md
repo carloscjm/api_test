@@ -38,8 +38,8 @@ with your request and we'll work it into our
 
 
 ## Quick Build and Install
-npm install
-npm run start
+  * npm install
+  * npm run start
 
 
 ## Basic Usage
